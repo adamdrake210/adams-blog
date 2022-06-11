@@ -46,3 +46,16 @@ For data fetching I have been using mostly [React-Query](https://react-query.tan
 ```
 
 This is taken from the [React-Query docs](https://react-query.tanstack.com/guides/queries) but what I love about it is the code literally reads itself. You don't need any explaining text to accompany this, you just read the code and you can understand exactly how to use the `useQuery` hook.
+
+## UI
+
+There are so many choices for UI libraries these days - MUI, Tailwind.css, ChakraUI to name but a few. I still have to say that my personal favorite and goto UI component library is [MUI](https://mui.com/). The reasons are a few:
+
+<ul>
+<li>- I know the api and it has great documentation</li>
+<li>- It gives me all the main components I need out of the box to build most UI layouts and interfaces that I need</li>
+<li>- It is accessible friendly</li>
+<li>- It's reliable - it's been tried and tested and at the moment of writing this is on V5</li>
+</ul>
+
+At the end of the day, I am mainly a developer. I have some UI/UX experience and I have seen and used enough websites to know a little about design but when I am coding applications and websites I want to put the UI together relatively quickly so using something like MUI helps me achieve this goal.
