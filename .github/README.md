@@ -1,6 +1,4 @@
-![](../posts/screenshot.png)
-
-# Ryan's Blog
+# Adams's Blog
 
 Deployments in less than 10 seconds.
 
