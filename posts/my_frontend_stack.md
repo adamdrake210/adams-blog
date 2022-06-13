@@ -63,7 +63,9 @@ At the end of the day, I am mainly a developer. I have some UI/UX experience and
 
 Gathering user data is a must with any serious Web Application. You can't do much to help the user out and solve their problem without knowing a little bit about them. So having a good form to collect that data is vital. Forms come in all shapes and sizes these days and also in various disguises. Whatever they are and however they look it's vitally important they behave and work as expected! 
 
-My goto library for forms is [react=hook-form](https://react-hook-form.com/)
+My goto library for forms is [react-hook-form](https://react-hook-form.com/).
+
+The reason I am a fan is for a number of reasons. I like the fact I can easily pass in specific rules to each form field. I really like the dynamic form implementation using the `useFieldArray` hook - [useFieldArray](https://react-hook-form.com/api/usefieldarray). This was something I originally used to implement myself and it required quite a bit of boilerplate to get it to work. Once I discovered this hook it changed everything for me. Also the documentation and example videos again are very well laid out on the [react-hook-form website](https://react-hook-form.com/api).
 
 ## Static Typing
 
