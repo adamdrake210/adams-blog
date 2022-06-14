@@ -69,7 +69,15 @@ The reason I am a fan is for a number of reasons. I like the fact I can easily p
 
 ## Static Typing
 
-TBD
+For static type checking I use [Typescript](https://www.typescriptlang.org/). I was a little hesitant to start using Typescript initially but after finally taking the plunge it didn't take me very long to fall in love with it. 
+
+I received my initial introduction from [Ben Awad's Typescript Basics](https://www.youtube.com/watch?v=se72XMlG1Ro) video. I always find his way of explaining a topic both simple and useful. 
+
+Once I started using it on my own projects and started seeing the number of errors that Typescript was finding in my code, I was immediately hooked and dived deeper into the more nuanced situations you encounter. 
+
+Typescript really does improve my code and my developer experience by a good 20% on what it was previously. It makes me a better developer by making me slow down and also making me understand explicitly each line of my code. This may sound a little ridiculous or overblown but it's amazing what you can get away with in plain Javascript that Typescript would scream at you for.
+
+I never start a project without Typescript anymore.
 
 ## Dev Environment
 
